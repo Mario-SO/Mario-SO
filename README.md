@@ -35,6 +35,8 @@
 
 <a href="https://www.buymeacoffee.com/Mario5O"><img src="https://img.buymeacoffee.com/button-api/?text=Coffee for me?&emoji=&slug=Mario5O&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
 
+[![Donate with Ethereum](https://en.cryptobadges.io/badge/big/0x92c20F715472AAd2c7fc7284F0C2e4fAd39e28Af)](https://en.cryptobadges.io/donate/0x92c20F715472AAd2c7fc7284F0C2e4fAd39e28Af)
+
 <br />
 
 ![](https://hit.yhype.halp.im/github/profile?user_id=36546318)
