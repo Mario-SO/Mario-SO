@@ -11,8 +11,13 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />
+<div align="left"><img src="https://www.codewars.com/users/Never%20Lucky/badges/small" align="left" /></div>
 </div>  
+
+<br/>
+
+
 
 <br/>  
 
@@ -31,13 +36,13 @@
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Mario-SO&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<br/>
 
 <div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=srbta1010&cover_image=true&theme=novatorem" /></div>  
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Mario-SO&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=Mario-SO)  
   
 
 <br/>  
