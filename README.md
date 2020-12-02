@@ -47,11 +47,5 @@
 
 <br/>  
 
-<div align="left">
-            <a href="https://www.buymeacoffee.com/Mario5O" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="left"
-                />
-            </a></div>
+<a href="https://www.buymeacoffee.com/Mario5O"><img src="https://img.buymeacoffee.com/button-api/?text=Mornings are tough&emoji=&slug=Mario5O&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
 <br />
