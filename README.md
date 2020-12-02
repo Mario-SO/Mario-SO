@@ -33,7 +33,7 @@
 
 ## Support ☕
 
-<a href="https://www.buymeacoffee.com/Mario5O"><img src="https://img.buymeacoffee.com/button-api/?text=Mornings are tough&emoji=&slug=Mario5O&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
+<a href="https://www.buymeacoffee.com/Mario5O"><img src="https://img.buymeacoffee.com/button-api/?text=Coffee for me?&emoji=&slug=Mario5O&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 <br />
 
