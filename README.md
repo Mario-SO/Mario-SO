@@ -34,11 +34,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mario-SO&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Mario-SO&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=srbta1010&cover_image=true&theme=novatorem" /></div>  
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=srbta1010&cover_image=true&theme=novatorem" /></div>  
 
 <br/>  
 
